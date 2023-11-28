@@ -5,4 +5,5 @@ for i in range(0,12):
     print("hamilton siempre atascado en la grava")
     print("Zawar és batman de aliexpress")
     print("Cristian es robin gallego")
+    print("adiran aleman de segunda mano")
 
